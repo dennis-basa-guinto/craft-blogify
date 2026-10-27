@@ -1,3 +1,7 @@
+> ⚠️ **FORK NOTICE:** This is a temporary maintenance fork of `matfish/craft-blogify`. 
+> It has been updated specifically to support `craftcms/ckeditor` v5.0+. 
+> For the official plugin, please visit the original repository.
+
 # Blogify
 
 Blogify offers a single-click solution to the task of building a blog with CraftCMS.
